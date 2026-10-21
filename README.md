@@ -4,4 +4,4 @@ Hier liegt nur die fertige Mac-App. Die App findet neue Versionen selbst („Upd
 
 Neuinstallation: [Buerohelfer.dmg](https://github.com/schmidtke75-hash/buerohelfer-updates/raw/main/Buerohelfer.dmg) laden, öffnen und „Buerohelfer“ in den Ordner Programme ziehen (beim ersten Start Rechtsklick → Öffnen).
 
-Aktuelle Version: 1.30.1
+Aktuelle Version: 1.31.0
